@@ -1,0 +1,10 @@
+Flask
+flask-bcrypt
+flask-login
+firebase-admin
+opencv-python
+detectron2
+reportlab
+werkzeug
+numpy
+pycocotools>=2.0.2
